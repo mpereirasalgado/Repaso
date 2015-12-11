@@ -147,5 +147,5 @@ public class ItemListFragment extends ListFragment {
         }
 
         mActivatedPosition = position;
-    }///comit antes del examen
+    }//commit antes del examen
 }
